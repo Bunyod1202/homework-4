@@ -108,3 +108,19 @@ body a {
     font-size: 13px;
     line-height: 15px;
 }
+.footer {
+    background-color: #7297EF;
+    color:#fff;
+}
+.footer .footer-top .list {
+    list-style: none;
+}
+.footer .footer-top .list .list-item .item-link {
+    color: #fff;
+    font-weight: 500;
+font-size: 16px;
+line-height: 19px;
+}
+.footer .footer-bottom .list {
+ list-style: none;
+}
