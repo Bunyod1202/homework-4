@@ -1,6 +1,6 @@
 body a {
     text-decoration: none;
-
+    
 }
 .header-top {
     background-color: #F6F6F6;
@@ -17,14 +17,14 @@ body a {
     height: 36px;
 }
 .header-top .chekbox .uz {
-background-color: #fff;
-
+    background-color: #fff;
+    
 }
 .header-top .chekbox .uz .link{
     color: #000;
 }
 .header-top .chekbox .ru .link {
-
+    
     color: #000;
 }
 .header-top .btn {
@@ -33,6 +33,78 @@ background-color: #fff;
 .header-bottom .nav .nav-list {
     list-style: none;
 }
+.main .sectiont-one .list {
+    list-style: none;
+}
 .header-bottom .nav .nav-list .list-item .item-link {
     color: #7F7F7F;
+}
+.main .sectiont-one .list .list-item .card {
+    background-color: #F6F6F6;
+}
+.main .sectiont-one .list .list-item .card .link {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 26px;
+    color: #000;
+}
+.main .sectiont-one .list .list-item .card .blenk {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #5E5F61;
+}
+.main .sectiont-one .list .list-item .card .text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #4A4B4C;
+}
+.main .article .card {
+    background-color: #FFD1B0;
+}
+.main .article .card .btn {
+    color: #fff; 
+    background-color: 
+    #F78B3B;
+}
+.main .section-tuo .list {
+    list-style: none;
+}
+.main .section-tuo .list .list-item .link {
+    color: #000;
+}
+.main .section-tuo .list .list-item .text {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    color: #4A4B4C;
+}
+.main .section-tuo .list .list-item .blenk {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+    color: #5E5F61;
+}
+.main .section-tuo .btn {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000;
+    background-color: #EAEAEA   ;
+}
+.main .section-tuo .lists .list {
+    list-style: none;
+}
+.main .section-tuo .lists .list .list-item .link {
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #000;
+}
+.main .section-tuo .lists .list .list-item .blank {
+    color: #5E5F61;
+    font-weight: 400;
+    font-size: 13px;
+    line-height: 15px;
 }
