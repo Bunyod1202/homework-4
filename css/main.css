@@ -1,0 +1,38 @@
+body a {
+    text-decoration: none;
+
+}
+.header-top {
+    background-color: #F6F6F6;
+}
+.header-top .list {
+    list-style: none;
+}
+.header-top .list .list-item .text {
+    color: #555;
+}
+.header-top .chekbox {
+    background-color: #DCE6FF;
+    width: 70px;
+    height: 36px;
+}
+.header-top .chekbox .uz {
+background-color: #fff;
+
+}
+.header-top .chekbox .uz .link{
+    color: #000;
+}
+.header-top .chekbox .ru .link {
+
+    color: #000;
+}
+.header-top .btn {
+    color: #000;
+}
+.header-bottom .nav .nav-list {
+    list-style: none;
+}
+.header-bottom .nav .nav-list .list-item .item-link {
+    color: #7F7F7F;
+}
